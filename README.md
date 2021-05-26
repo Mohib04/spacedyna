@@ -1,4 +1,4 @@
-<p align="center"><a  alt="SPACEDYNA" width="400">SPACEDYNA</a></p>
+<p align="center"><a style="color: red" alt="SPACEDYNA" width="400">SPACEDYNA</a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/Spacedyna/framework"><img src="https://travis-ci.org/Spacedyna/framework.svg" alt="Build Status"></a>
