@@ -1,4 +1,4 @@
-<p align="center"><a href="https://Spacedyna.com" target="_blank"><img src="{{ asset('assets/images/') }}" alt="SPACEDYNA" width="400"></a></p>
+<p >SPACEDYNA</p>
 
 <p align="center">
 <a href="https://travis-ci.org/Spacedyna/framework"><img src="https://travis-ci.org/Spacedyna/framework.svg" alt="Build Status"></a>
