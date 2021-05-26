@@ -4,7 +4,7 @@
         <div class="col-lg-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.25s">
           <p>© Copyright 2021 Uttara University. All Rights Reserved. 
           
-          <br>Develop by: <a rel="nofollow" href="https://templatemo.com">Mohibbulla Munshi</a></p>
+          <br>Develop by: <a rel="nofollow" href="https://www.facebook.com/mohib5g/">Mohibbulla Munshi</a></p>
         </div>
       </div>
     </div>
