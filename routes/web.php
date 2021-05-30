@@ -40,3 +40,5 @@ Route::get('message', function () {
 Route::get('contact', function () {
     return view('contact');
 })->name('contact');
+
+Route::post('contact',  'App\Http\Controllers\Contact\Contact@store')->name('contact-info');
